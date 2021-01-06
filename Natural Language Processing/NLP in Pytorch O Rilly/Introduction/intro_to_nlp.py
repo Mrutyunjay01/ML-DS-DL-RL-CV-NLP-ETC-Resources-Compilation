@@ -37,3 +37,22 @@ def n_grams(text, n):
     return [text[i: i+n] for i in range(len(text)-n + 1)]
 
 print(n_grams(tweet, 3))
+
+# lemmatization in spacy
+doc = nlp(u"He was running late.")
+for token in doc:
+    print(f"{token} -> {token.lemma_}")
+
+# parts of speech tagging or POS tagging
+doc1 = nlp(u"Marry slapped the green witch")
+for token in doc1:
+    print(f"{token} -> {token.pos_}")
+    
+# chunking or shallow parsing
+# shallow parsing aims to derive higher order units composed of the grammatical
+# atoms like noun, verbs, adjectives etc.
+print("\nExample of shallow parsing...")
+for token in doc1.noun_chunks:
+    print(f"{token} -> {token.label_}")
+        
+    
