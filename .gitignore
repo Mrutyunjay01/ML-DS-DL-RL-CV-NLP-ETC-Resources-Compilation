@@ -1,5 +1,6 @@
-**/.spyproject
 .idea
+.spyproject
+**/.spyproject
 
 */.ipynb_checkpoints
 
