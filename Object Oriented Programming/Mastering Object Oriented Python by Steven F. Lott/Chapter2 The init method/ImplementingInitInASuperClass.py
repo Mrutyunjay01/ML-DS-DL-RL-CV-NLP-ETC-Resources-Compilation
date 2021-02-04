@@ -44,5 +44,4 @@ class Suit(str, Enum):
     Diamond = "♦"
     Heart = "♥"
     Spade = "♠"
-
     pass

@@ -16,29 +16,32 @@ performs any other one-time processing.
 # let's play around the concept
 from typing import Tuple
 
+
 class Card:
     """
     There are 2 instance variables taken inside the class, those are
     suit and rank. And the other two variables are calculated using an method.
     """
+
     def __init__(self, rank: str, suit: str) -> None:
-        
         self.suit = suit
         self.rank = self.rank
-        self.hard, self.soft = self._points(self)
-        
+        self.hard, self.soft = self._points()
+
     def _points(self) -> Tuple[int, int]:
         return int(self.rank), int(self.rank)
 
+
 # let's inherit Ace card from our Card class
 class AceCard(Card):
-    
+
     def _points(self) -> Tuple[int, int]:
         return 1, 11
-    
+
+
 class FaceCard(Card):
-    
+
     def _points(self) -> Tuple[int, int]:
         return 10, 10
-    
+
 # next start from page 68.

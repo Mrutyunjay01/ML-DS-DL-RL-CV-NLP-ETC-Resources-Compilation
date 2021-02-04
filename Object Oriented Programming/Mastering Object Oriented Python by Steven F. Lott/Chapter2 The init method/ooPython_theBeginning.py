@@ -4,12 +4,15 @@ Created on Mon Sep 14 19:48:50 2020
 
 @author: MRUTYUNJAY BISWAL
 """
+
+
 # object itself is the implicit super class in python
 # it does almost nothing
 # when we define a class, object is the default super class
 # remeber using the following notation/syntax for creating a class
 class kyaKarega(object):
     pass
+
 
 print(kyaKarega.__class__)
 # output => <class 'type'>
@@ -37,11 +40,13 @@ Consider the following example. The class required two instance variables, but d
 initialize them.
 '''
 
+
 class Rectangle:
-    
+
     def area(self) -> float:
         return self.length * self.height
-    
+
+
 # let's play around our Rectangle class
 # instantiate an object from the class
 rec = Rectangle()
