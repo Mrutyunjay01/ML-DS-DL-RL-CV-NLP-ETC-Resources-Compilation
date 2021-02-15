@@ -5,6 +5,9 @@ This repository is
 - Various concepts and technologies learning track from beginner to advanced.
 - Code samples and snippets implemented with examples and many more.
 # Sections
+
+## Resources
+
 ## Old Track
 -> My previous ML learning track which consists of several algorithms and their applicatoins on certain datasets.
 
