@@ -1,6 +1,8 @@
 # Resources Compilation
 
 ## Getting started with Machine Learning
+### Awesome Repositories
+- [Awesome NLP](https://github.com/keon/awesome-nlp)
 
 ## Interview Preparation
 ### Blogs
