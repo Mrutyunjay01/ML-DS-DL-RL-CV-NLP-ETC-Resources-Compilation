@@ -11,3 +11,6 @@
 
 ### Sources
 - [Data Monk daily questions](https://github.com/Mrutyunjay01/ML-DS-DL-RL-CV-NLP-ETC-Resources-Compilation/blob/main/Cracking-data-science-interviews.md)
+
+# Contribution Guidelines
+Looking the breadth and depth of the domain and the availablity of quality resources, everyone is welcome to contribute to this repository. Contributions in terms of new resource addition, mentorship programs, crowdsourcing programs, SOTA-methods, competitions, etc. are always welcome!!!
