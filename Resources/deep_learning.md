@@ -9,3 +9,10 @@
 - **Course Website**: https://academy.zerotomastery.io/p/learn-tensorflow?affcode=441520_izj92vzu
 - **YouTube Playlist**: https://www.youtube.com/playlist?list=PL6vjgQ2-qJFfU2vF6-lG9DlSa4tROkzt9
 - **GitHub**: https://github.com/mrdbourke/tensorflow-deep-learning
+# MIT Introduction to Deep Learning 6.S191
+- **Course Website**: http://introtodeeplearning.com/
+- **YouTube Playlist**: https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+# NTU Deep Learning SP21 by Alfredo Canziani and Yann LeCun
+- **Playlist**: https://youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI
+- **GitHub**: https://github.com/Atcold/NYU-DLSP21
+- **Course Website**: https://atcold.github.io/NYU-DLSP21/
