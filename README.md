@@ -1,4 +1,15 @@
 # Resources Compilation
+| SN | Domain | Link |
+|----|--------|------|
+| 1  | Classical ML | [here](https://github.com/Mrutyunjay01/ML-DS-DL-RL-CV-NLP-ETC-Resources-Compilation/blob/main/Resources/classical_ml.md) |
+| 2  | Deep Learning | [here](https://github.com/Mrutyunjay01/ML-DS-DL-RL-CV-NLP-ETC-Resources-Compilation/blob/main/Resources/deep_learning.md) |
+| 3  | Mathematics for Machine Learning | [here](https://github.com/Mrutyunjay01/ML-DS-DL-RL-CV-NLP-ETC-Resources-Compilation/blob/main/Resources/mathematics_for_ml.md) |
+| 4  | NLP | [here](https://github.com/Mrutyunjay01/ML-DS-DL-RL-CV-NLP-ETC-Resources-Compilation/blob/main/Resources/natural_language_processing.md) |
+| 5  | Computer Vision | TBA |
+| 6  | Reinforcement Learning | [here](https://github.com/Mrutyunjay01/ML-DS-DL-RL-CV-NLP-ETC-Resources-Compilation/blob/main/Resources/reinforcement_learning.md) |
+| 7  | Speech Processing | TBA |
+| 8  | Cloud Ops | [here](https://github.com/Mrutyunjay01/ML-DS-DL-RL-CV-NLP-ETC-Resources-Compilation/blob/main/Resources/cloud_technologies.md) |
+| 9  | MLOps | TBA |
 
 ## Getting started with Machine Learning
 ### Awesome Repositories
