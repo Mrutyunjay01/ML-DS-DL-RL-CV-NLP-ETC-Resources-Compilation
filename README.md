@@ -15,6 +15,8 @@
 ### Awesome Repositories
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
 
+## MISC
+- [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
 ## Interview Preparation
 ### Blogs
 - [Cracking the LinkedIn Data Scientist Interview](https://medium.com/datainterview/cracking-the-linkedin-data-scientist-interview-772b7d9e77df)
