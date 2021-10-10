@@ -3,7 +3,8 @@
   - Course website  : http://web.stanford.edu/class/cs224n/index.html#schedule
   - YouTube Playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 ## Domains
-
+### Question Answering
+- [CS224n Lecture Notes](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1204/readings/cs224n-2019-notes07-QA.pdf)
 ## Blogs, Articles, Reports
 - [A primer on Neural Network Models for Natural Language Processing by Yoav Goldberg.](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 ## Mentorships
