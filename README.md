@@ -9,7 +9,7 @@
 | 6  | Reinforcement Learning | [here](https://github.com/Mrutyunjay01/ML-DS-DL-RL-CV-NLP-ETC-Resources-Compilation/blob/main/Resources/reinforcement_learning.md) |
 | 7  | Speech Processing | TBA |
 | 8  | Cloud Ops | [here](https://github.com/Mrutyunjay01/ML-DS-DL-RL-CV-NLP-ETC-Resources-Compilation/blob/main/Resources/cloud_technologies.md) |
-| 9  | MLOps | TBA |
+| 9  | MLOps | [here](https://github.com/Mrutyunjay01/ML-DS-DL-RL-CV-NLP-ETC-Resources-Compilation/blob/main/Resources/mlops.md) |
 
 ## Getting started with Machine Learning
 ### Awesome Repositories
