@@ -14,6 +14,8 @@
 ## Getting started with Machine Learning
 ### Awesome Repositories
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
+### Websites
+- [Statistics by Jim](https://statisticsbyjim.com/)
 
 ## MISC
 - [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
