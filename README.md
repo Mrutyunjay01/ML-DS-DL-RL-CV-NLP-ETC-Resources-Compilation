@@ -19,6 +19,9 @@
 
 ## MISC
 - [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
+### Continual Learning
+- [Playlist Collection](https://www.youtube.com/playlist?list=PLm6QXeaB-XkBnwzxO3x4HlgXV4C3HtK52)
+- [Continual Learning in Neural Networks by Pulkit Agarwal at CMU](https://www.youtube.com/watch?v=06_iBtEeUTc)
 ## Interview Preparation
 ### Blogs
 - [Cracking the LinkedIn Data Scientist Interview](https://medium.com/datainterview/cracking-the-linkedin-data-scientist-interview-772b7d9e77df)
