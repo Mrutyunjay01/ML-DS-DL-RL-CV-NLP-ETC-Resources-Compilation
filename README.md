@@ -15,6 +15,8 @@
 ### Awesome Repositories
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
 ### Websites
+#### Statistics
+- [Statistics How to](https://www.statisticshowto.com/)
 - [Statistics by Jim](https://statisticsbyjim.com/)
 
 ## MISC
