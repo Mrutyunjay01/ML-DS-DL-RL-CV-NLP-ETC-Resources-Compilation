@@ -18,6 +18,7 @@
 #### Statistics
 - [Statistics How to](https://www.statisticshowto.com/)
 - [Statistics by Jim](https://statisticsbyjim.com/)
+- [Online Stats Book](https://onlinestatbook.com/2/index.html)
 
 ## MISC
 - [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
