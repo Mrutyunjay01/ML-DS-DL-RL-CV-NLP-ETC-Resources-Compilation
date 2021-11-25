@@ -1,4 +1,3 @@
-<!-- ![1633163251190](https://user-images.githubusercontent.com/53314831/143438522-38547553-5f32-4f4f-a43c-dc46856c13b7.jpg) -->
 # Resources Compilation
 | SN | Domain | Link |
 |----|--------|------|
