@@ -19,6 +19,7 @@
 - [Statistics How to](https://www.statisticshowto.com/)
 - [Statistics by Jim](https://statisticsbyjim.com/)
 - [Online Stats Book](https://onlinestatbook.com/2/index.html)
+- [Machine Learing From Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 
 ## MISC
 - [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
