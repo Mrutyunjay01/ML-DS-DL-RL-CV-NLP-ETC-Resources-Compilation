@@ -10,6 +10,7 @@
 | 7  | Speech Processing | TBA |
 | 8  | Cloud Ops | [here](https://github.com/Mrutyunjay01/ML-DS-DL-RL-CV-NLP-ETC-Resources-Compilation/blob/main/Resources/cloud_technologies.md) |
 | 9  | MLOps | [here](https://github.com/Mrutyunjay01/ML-DS-DL-RL-CV-NLP-ETC-Resources-Compilation/blob/main/Resources/mlops.md) |
+| 10 | Geometric Deep Learning | [here]() |
 
 ## Getting started with Machine Learning
 ### Awesome Repositories
