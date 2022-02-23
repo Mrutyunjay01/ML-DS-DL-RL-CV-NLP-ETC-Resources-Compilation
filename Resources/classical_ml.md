@@ -6,6 +6,11 @@
 - [MIT 18.06 Linear Algebra by ***Gilbert Strang***](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 - [MIT 6.034 Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 
+# Algorithms
+## SVMs
+### Papers
+- [Pegasos: Primal Estimated sub-GrAdient SOlver for SVM](https://home.ttic.edu/~nati/Publications/PegasosMPB.pdf)
+
 # Miscellaneous
 - [Demystify Modern Gradient Boosting Trees](https://everdark.github.io/k9/notebooks/ml/gradient_boosting/gbt.nb.html)
 - **Explainable Boosting Machines(EBMs)**: https://www.youtube.com/watch?v=MREiHgHgl0k
