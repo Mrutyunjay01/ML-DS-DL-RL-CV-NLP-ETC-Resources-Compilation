@@ -12,9 +12,13 @@
 | 9  | MLOps | [here](https://github.com/Mrutyunjay01/ML-DS-DL-RL-CV-NLP-ETC-Resources-Compilation/blob/main/Resources/mlops.md) |
 | 10 | Geometric Deep Learning | [here](https://github.com/Mrutyunjay01/ML-DS-DL-RL-CV-NLP-ETC-Resources-Compilation/blob/main/Resources/geometric_deeplearning.md) |
 
+## Some Gold mines
+- Karpathy's Blog: [Link](https://karpathy.github.io/)
+
 ## Getting started with Machine Learning
 ### Awesome Repositories
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
+
 ### Websites
 #### Statistics
 - [Statistics How to](https://www.statisticshowto.com/)
@@ -28,7 +32,7 @@
 - [Playlist Collection](https://www.youtube.com/playlist?list=PLm6QXeaB-XkBnwzxO3x4HlgXV4C3HtK52)
 - [Continual Learning in Neural Networks by Pulkit Agarwal at CMU](https://www.youtube.com/watch?v=06_iBtEeUTc)
 ## Interview Preparation
-### Blogs
+### Articles
 - [Cracking the LinkedIn Data Scientist Interview](https://medium.com/datainterview/cracking-the-linkedin-data-scientist-interview-772b7d9e77df)
 - [Amazon Applied Scientist Interview as a Fresher Undergrad](https://medium.com/@ultronmaster/amazon-applied-scientist-interview-experience-as-fresher-undergrad-b9a2c5b40a63)
 
