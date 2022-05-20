@@ -14,7 +14,7 @@
 
 ## Some Gold mines
 - Karpathy's Blog: [Link](https://karpathy.github.io/)
-
+- Machine Learning University(MLU-Explain) by Amazon [Link](https://mlu-explain.github.io/)
 ## Getting started with Machine Learning
 ### Awesome Repositories
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
