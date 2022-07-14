@@ -4,6 +4,7 @@
   - YouTube Playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
   - [2021 Winter Updated Lecture series](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 2. **Multilingual NLP 2022 | CMU**
+  - Course Website: [Link](http://demo.clab.cs.cmu.edu/11737fa20/) 
   - YouTube Playlist: https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7
 ## Domains
 ### Question Answering
