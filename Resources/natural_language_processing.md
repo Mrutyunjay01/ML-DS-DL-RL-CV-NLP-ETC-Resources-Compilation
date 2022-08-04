@@ -6,6 +6,8 @@
 2. **Multilingual NLP 2022 | CMU**
   - Course Website: [Link](http://demo.clab.cs.cmu.edu/11737fa20/) 
   - YouTube Playlist: https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7
+3. **Stanford CS224U: Natural Language Understanding Spring 21**
+  - YouTube Playlist: [Link](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ) 
 ## Domains
 ### Question Answering
 - [CS224n Lecture Notes](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1204/readings/cs224n-2019-notes07-QA.pdf)
