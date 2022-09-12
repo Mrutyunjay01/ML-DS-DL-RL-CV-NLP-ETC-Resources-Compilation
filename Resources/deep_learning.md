@@ -16,3 +16,5 @@
 - **Playlist**: https://youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI
 - **GitHub**: https://github.com/Atcold/NYU-DLSP21
 - **Course Website**: https://atcold.github.io/NYU-DLSP21/
+# Neural Network: Zero to Hero by Andrej Karpathy
+- **Playlist**: [Link](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
