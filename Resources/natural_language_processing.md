@@ -10,6 +10,11 @@
   - YouTube Playlist: [Link](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
 4. **Stanford CS25: Transformers United**
   - YouTube Playlist: [Link](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) 
+
+5. **CMU Advanced NLP 2022**
+  - YouTube Playlist: [Link](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
+  - Course Website: [Link](https://phontron.com/class/anlp2022/schedule/class-introduction.html)
+  - Code (By Org): [Link](https://github.com/neubig/anlp-code)
 ## Domains
 ### Question Answering
 - [CS224n Lecture Notes](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1204/readings/cs224n-2019-notes07-QA.pdf)
