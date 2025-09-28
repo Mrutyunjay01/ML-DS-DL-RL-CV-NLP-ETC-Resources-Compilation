@@ -12,7 +12,7 @@
 # MIT Introduction to Deep Learning 6.S191
 - **Course Website**: http://introtodeeplearning.com/
 - **YouTube Playlist**: https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
-# NTU Deep Learning SP21 by Alfredo Canziani and Yann LeCun
+# NYU Deep Learning SP21 by Alfredo Canziani and Yann LeCun
 - **Playlist**: https://youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI
 - **GitHub**: https://github.com/Atcold/NYU-DLSP21
 - **Course Website**: https://atcold.github.io/NYU-DLSP21/
